@@ -1,0 +1,8 @@
+id: reach
+name: Reach
+type: shield
+url: https://github.com/Zackattack2130/Reach-zmk-Config
+requires: [nice_nano_v2]
+features:
+  - keys
+  - split
