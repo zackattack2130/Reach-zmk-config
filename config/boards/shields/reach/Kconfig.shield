@@ -1,0 +1,8 @@
+# SPDX-License-Identifier: MIT
+config SHIELD_REACH_LEFT
+    def_bool y
+    depends on SHIELD_REACH_LEFT
+
+config SHIELD_REACH_RIGHT
+    def_bool y
+    depends on SHIELD_REACH_RIGHT
